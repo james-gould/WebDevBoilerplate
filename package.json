@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/james-gould/WebDevBoilerplate.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Boilerplate", "webdev", "javascript", "nodejs", "node.js"],
+  "author": "James Gould",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/james-gould/WebDevBoilerplate/issues"
